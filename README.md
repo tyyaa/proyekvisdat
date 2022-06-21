@@ -6,4 +6,14 @@ Data yang digunakan berasal dari Kaggle dengan judul Cause of Death in Indonesia
 Data dari Publikasi Profil Kesehatan Indonesia tahun 2000 sapai tahun 2021 dipublikasikan di website resmi kemetrian kesehatan (https://pusdatin.kemkes.go.id/download.php?file=download/pusdatin/profil-kesehatan-indonesia/).
 
 ## Visualisai Data
-### Data type (jenis penyebab kematian) divisualisasikan dengan bentuk tabel untuk setiap. Bentuk tabel dipilih karena tujuan dari visualsasi data type adalah menunjukkan banyaknya jumlah kematian untuk bencana non alam dan penyakit, bencana alam, dan bencana sosial.
+### Data type (jenis penyebab kematian) 
+Divisualisasikan dengan bentuk tabel untuk setiap. Bentuk tabel dipilih karena tujuan dari visualsasi data type adalah menunjukkan banyaknya jumlah kematian untuk bencana non alam dan penyakit, bencana alam, dan bencana sosial.
+![type](https://user-images.githubusercontent.com/107907913/174727089-08a1adea-9416-4ab7-b910-be50625c8af5.jpg)
+
+### Data cause (penyebab kematian) 
+Divisualisasikan dengan treemap. Visualisasi ini dipilih karena tujuan dari visualisasi data tersebut adalah untuk memperlihatkan banyaknya kematian berdasarkan penyebabkan, Selain itu karena treemap merupakan cara visualisasi yang efisien untuk merepresentasikan data hirearki. Dimensi dari kotak dan warnanya membantu untuk secara langsung membandingkan antar penyebab kematian.
+![cause](https://user-images.githubusercontent.com/107907913/174727246-d8c0f966-72d3-46e0-8ade-fdcdaf75a593.jpg)
+
+### Data type (jenis penyebab kematian) dan cause (penyebab 
+kematian) 
+Divusialisasikan Bersama untuk melihat banyaknya jumlah kematian berdasarkan penyebab dalam setiap jenis penyebab.
