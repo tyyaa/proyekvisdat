@@ -17,3 +17,12 @@ Divisualisasikan dengan treemap. Visualisasi ini dipilih karena tujuan dari visu
 ### Data type (jenis penyebab kematian) dan cause (penyebab 
 kematian) 
 Divusialisasikan Bersama untuk melihat banyaknya jumlah kematian berdasarkan penyebab dalam setiap jenis penyebab.
+![typecause](https://user-images.githubusercontent.com/107907913/174727378-8cf834c1-a409-4d9c-820c-a0f55dc52fee.jpg)
+
+### Data laju jumlah kematian berdasarkan penyebab 
+Divisualisasikan menggunakan line chart. Jenis visualisasi ini dipilih karena dengan line chart dapat dilihat perubahan jumlah kematian untuk setiap penyebab dari tahun ke tahun.
+![laju](https://user-images.githubusercontent.com/107907913/174727443-0d9c2125-bcc3-4aff-815d-e8467053369b.jpg)
+
+## Dashboard
+![dashboard](https://user-images.githubusercontent.com/107907913/174727647-96854ad2-482b-4eea-87d8-fafdc1db402d.jpg)
+Dashboard tersebut selain menyatukan semua visualisasi menjadi satu juga terdapat filter tahun untuk menunjukkan data pada tahun tertentu. Di bawah filter tahun juga terdapat legenda yang berisi keterangan setiap penyebab kematian.
